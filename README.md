@@ -22,10 +22,11 @@ I turn complex business data into clear, actionable insights. I specialize in en
 
 | Project | Tools | Focus |
 |---|---|---|
-| [Kraven – Financial Performance & Profitability Risk](https://github.com/MustaphaAMBALI) | Excel, Forecasting | $118M revenue analysis, margin risk, ETS forecast |
-| [AtlasMart – Retail Performance Analysis](https://github.com/MustaphaAMBALI) | SQL, Power BI | 40K+ transactions, discount impact, customer profitability |
-| [Novacart – Revenue Leakage EDA](https://github.com/MustaphaAMBALI) | Excel, SQL, Power BI | Subscription e-commerce, 40K transactions, revenue risk |
-| [Banking Transactions Behavior Analysis](https://github.com/MustaphaAMBALI) | Power BI, Excel | Personal finance patterns, spending trends, channel insights |
+| [Kraven – Financial Performance & Profitability Risk](https://github.com/MustaphaAMBALI/Kraven-Financial-Performance-Analysis-Excel) | Excel, Forecasting | $118M revenue analysis, margin risk, ETS forecast |
+| [AtlasMart – Retail Performance Analysis](https://github.com/MustaphaAMBALI/AtlasMart-End-to-End-Data-Analytics) | SQL, Power BI | 40K+ transactions, discount impact, customer profitability |
+| [Novacart – Revenue Leakage EDA](https://github.com/MustaphaAMBALI/Novacart-Revenue-Revenue-Leakage-Exploratory-Data-Analysis-EDA-) | Excel, SQL, Power BI | Subscription e-commerce, 40K transactions, revenue risk |
+| [Banking Transactions Behavior Analysis](https://github.com/MustaphaAMBALI/Banking-Transactions-Behavior-Analysis-2025-) | Power BI, Excel | Personal finance patterns, spending trends, channel insights |
+
 
 ---
 
