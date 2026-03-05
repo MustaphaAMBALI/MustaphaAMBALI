@@ -1,4 +1,4 @@
-# Hi, I'm Mustapha Ambali 👋🏽
+# Hi, I'm Mustapha Ambali 
 ### Data Analyst | Business Intelligence | Visual Storyteller
 
 Based in **Lagos, Nigeria** 🇳🇬 | Open to **Remote Opportunities Worldwide**
@@ -7,7 +7,7 @@ I turn complex business data into clear, actionable insights. I specialize in en
 
 ---
 
-## 🛠 Tools & Skills
+## Tools & Skills
 
 | Category | Tools |
 |---|---|
@@ -18,7 +18,7 @@ I turn complex business data into clear, actionable insights. I specialize in en
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | Tools | Focus |
 |---|---|---|
@@ -30,7 +30,7 @@ I turn complex business data into clear, actionable insights. I specialize in en
 
 ---
 
-## 💼 Experience Highlights
+## Experience Highlights
 
 - Managed and analyzed **3M+ e-commerce product records** at HSSL Technologies
 - Improved data update efficiency by **25%** through process analysis and optimization
@@ -39,12 +39,12 @@ I turn complex business data into clear, actionable insights. I specialize in en
 
 ---
 
-## 📈 Currently
+##  Currently
 
-- 🔭 Building projects in **business analytics & commercial data**
-- 🌱 Learning **Python for Data Analysis** (Pandas, Matplotlib)
-- 👯 Open to **freelance gigs, remote roles, and collaborations**
-- 💬 Ask me about **Power BI, SQL, Tableau, Excel analytics**
+-  Building projects in **business analytics & commercial data**
+-  Learning **Python for Data Analysis** (Pandas, Matplotlib)
+-  Open to **freelance gigs, remote roles, and collaborations**
+-  Ask me about **Power BI, SQL, Tableau, Excel analytics**
 
 ---
 
