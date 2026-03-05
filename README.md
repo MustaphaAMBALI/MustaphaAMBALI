@@ -12,7 +12,7 @@ I turn complex business data into clear, actionable insights. I specialize in en
 | Category | Tools |
 |---|---|
 | **Data Analysis** | Microsoft Excel, SQL (SQL Server), Power Query |
-| **Visualization** | Power BI, DAX, Data Storytelling |
+| **Visualization** | Power BI, Tableau, DAX, Data Storytelling |
 | **Other** | Figma, PowerPoint, EDA, Data Modeling |
 | **Learning** | Python (Pandas, Jupyter Notebook) |
 
