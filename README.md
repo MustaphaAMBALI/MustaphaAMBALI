@@ -1,4 +1,4 @@
-# Hi, I'm Mustapha Ambali 👋
+# Hi, I'm Mustapha Ambali 👋🏽
 ### Data Analyst | Business Intelligence | Visual Storyteller
 
 Based in **Lagos, Nigeria** 🇳🇬 | Open to **Remote Opportunities Worldwide**
