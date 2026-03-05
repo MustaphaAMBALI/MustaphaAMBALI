@@ -44,7 +44,7 @@ I turn complex business data into clear, actionable insights. I specialize in en
 - 🔭 Building projects in **business analytics & commercial data**
 - 🌱 Learning **Python for Data Analysis** (Pandas, Matplotlib)
 - 👯 Open to **freelance gigs, remote roles, and collaborations**
-- 💬 Ask me about **Power BI, SQL, Excel analytics**
+- 💬 Ask me about **Power BI, SQL, Tableau, Excel analytics**
 
 ---
 
